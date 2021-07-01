@@ -1,0 +1,40 @@
+{
+  "workbench.colorTheme": "Dracula",
+  "editor.fontSize": 18,
+  "editor.lineHeight": 24,
+  "editor.fontLigatures": true,
+  "editor.rulers": [
+    80,
+    120
+  ],
+  "editor.renderLineHighlight": "gutter",
+  "terminal.integrated.fontSize": 14,
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.startupEditor": "newUntitledFile",
+  "editor.tabSize": 2,
+  "window.zoomLevel": 0,
+  "extensions.ignoreRecommendations": false,
+  "emmet.syntaxProfiles": {
+    "nunjucks": "html",
+    "java": "jsx"
+  },
+  "emmet.includeLanguages": {
+    "java": "javareact",
+    "nunjucks": "html"
+  },
+  "breadcrumbs.enabled": true,
+  "git.enableSmartCommit": true,
+  "editor.parameterHints.enabled": false,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.confirmDelete": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "editor.formatOnSave": true,
+  "eslint.validate": [
+    "javascript",
+    "typescript"
+  ],
+  "eslint.run": "onSave",
+  "git.autofetch": true
+}
